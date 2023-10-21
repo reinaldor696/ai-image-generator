@@ -65,3 +65,24 @@ img-loading img {
     background: blue;
     cursor: pointer;
 }
+
+.loading-bar {
+    width: 0px;
+    height: 8px;
+    background: blue;
+}
+
+.loading-text {
+    font-size: 18px;
+}
+
+.loading-bar-full {
+    width: 600px;
+    height: 8px;
+    background: blue;
+    transition: 15s;
+}
+
+.display-none {
+    display: none;
+}
