@@ -3,8 +3,6 @@ import './App.css'
 import ImageGenerator from './components/ImageGenerator/ImageGenerator'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
       <div>
